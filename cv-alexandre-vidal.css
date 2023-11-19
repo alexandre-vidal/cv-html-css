@@ -76,19 +76,15 @@ li img {
 }
 
 a {
-    color: aqua;
-}
-
-a:visited {
     color: rgb(251, 0, 255);
 }
 
 a:hover {
-    color: greenyellow;
+    color: rgb(247, 11, 156);
 }
 
 a:active {
-    color: red;
+    color: rgb(170, 4, 106);
 }
 
 @media (max-width: 1590px) {
